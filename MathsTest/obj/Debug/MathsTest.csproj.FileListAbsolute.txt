@@ -1,0 +1,14 @@
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\bin\Debug\MathsTest.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\bin\Debug\MathsTest.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\bin\Debug\MyMathsLibrary.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\bin\Debug\MyMathsLibrary.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\obj\Debug\MathsTest.csprojResolveAssemblyReference.cache
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\obj\Debug\MathsTest.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Fakes and Sims\Simple Unit Test\MathsTest\obj\Debug\MathsTest.pdb
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\bin\Debug\MathsTest.dll
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\bin\Debug\MathsTest.pdb
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\bin\Debug\MyMathsLibrary.dll
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\bin\Debug\MyMathsLibrary.pdb
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\obj\Debug\MathsTest.csprojResolveAssemblyReference.cache
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\obj\Debug\MathsTest.dll
+D:\TestProject\Git-BambooTesting\Simple_Unit_Test\Simple Unit Test\MathsTest\obj\Debug\MathsTest.pdb
